@@ -2,3 +2,11 @@ url: https://rmagno.eu/hello/
 template:
   bootstrap: 5
 
+# navbar:
+#   structure:
+#     left:  [an-article, reference]
+#     right: [search, github]
+#   components:
+#     an-article:
+#       text: An article
+#       href: articles/an-article.html

@@ -36,3 +36,7 @@ An equation.
 $$d_{i,j} = \rho (\alpha (c_i-c_j)^2+\beta (p_i-p_j)^2+ \gamma (v_i-v_j)^2)^{1/2}\ .$$
 
 That was an equation.
+
+## Check the article!
+
+A cross-reference to an article: `vignette("an-article")`.
